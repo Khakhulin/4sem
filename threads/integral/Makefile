@@ -1,8 +1,8 @@
 CC = gcc
-CFLAGS =  -O2  -g -Wall   -pthread
+CFLAGS =  -O0  -g -Wall   -pthread
 
 
-SOURCES = paral_int.c
+SOURCES = new_paral.c
 OBJECTS = $(SOURCES:.c = .o)
 EXECUTABLE = paral
 
