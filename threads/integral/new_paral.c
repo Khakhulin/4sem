@@ -24,10 +24,8 @@ typedef struct data_main
         {
         long        numb_of_threads;
         long double epsilon;
-
         long double from;
         long double to;
-
         long double* arr_of_thread_numbs;
         } data_t;
 
