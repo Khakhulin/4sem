@@ -1,5 +1,5 @@
 ## MOOCs
 
--[mipt/](mipt/)
+- [mipt](mipt/)
 
--[stepik_nn](stepik_neural_network/)
+- [stepik_nn](stepik_neural_network/)
